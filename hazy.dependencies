@@ -1,0 +1,8 @@
+[
+ {
+   "remote": "github",
+   "repository": "ShevT/android_kernel_d1_p1",
+   "target_path": "kernel/huawei/viva",
+   "revision": "master"
+ }
+]
